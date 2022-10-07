@@ -143,4 +143,5 @@ body {
   position: absolute;
   top: -100px;
   left: 5px;
+  z-index: -1;
 }
